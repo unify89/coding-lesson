@@ -1,0 +1,6 @@
+[book]
+authors = ["ipsita pradhan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My Coding Class"
